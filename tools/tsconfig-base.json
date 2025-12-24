@@ -7,7 +7,7 @@
     "composite": true,
 
     // Prevent accidental compilation
-    "noEmit": true,
+    "noEmit": true,.
 
     // Maximize type checking.
     "allowUnreachableCode": false,
